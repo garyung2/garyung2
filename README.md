@@ -58,6 +58,5 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </div>
-<br/>
-<br/>
+
 ![garyung2's github stats](https://github-readme-stats.vercel.app/api?username=garyung2&show_icons=true)
